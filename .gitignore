@@ -1,0 +1,11 @@
+# Ambiente virtual e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Arquivos temporários do build do PDF
+*.html
+
+# Segredos: nunca versionar o token da IBM Quantum
+.env
+*.token

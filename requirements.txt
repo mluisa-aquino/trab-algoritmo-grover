@@ -1,0 +1,15 @@
+qiskit==2.6.2
+qiskit-aer==0.18.2
+qiskit-ibm-runtime==0.52.0
+matplotlib
+numpy
+pandas
+jinja2
+pylatexenc
+ipykernel
+nbformat
+nbclient
+nbconvert
+# Apenas para gerar o PDF do relatório (scripts/build_pdf.py):
+pypandoc_binary
+markdown
